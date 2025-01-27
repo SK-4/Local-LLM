@@ -10,7 +10,7 @@ async def run_task(task: str):
     # Initialize the agent with the provided task and model details
     agent = Agent(
         task=task,
-        llm=ChatOpenAI(model="gpt-4o", api_key="Your_API_KEY"),
+        llm=ChatOpenAI(model="gpt-4o",),
     )
     
     result = await agent.run()
