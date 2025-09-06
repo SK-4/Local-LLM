@@ -1,0 +1,10 @@
+{
+    "ticket_id": "ALPHA-002",
+    "title": "Incorrect sentiment labeling for sarcasm",
+    "description": "Sentiment classifier often marks sarcastic positive text as positive; need fine-tuning.",
+    "status": "Open",
+    "priority": "Medium",
+    "assigned_to": "raj.p",
+    "created_at": "2025-06-28T09:00:00Z",
+    "comments": []
+}

@@ -1,0 +1,10 @@
+{
+    "ticket_id": "GAMMA-502",
+    "title": "Anomaly detection false positives",
+    "description": "Anomaly detector flags regular maintenance patterns as anomalies.",
+    "status": "In Progress",
+    "priority": "Medium",
+    "assigned_to": "li.wei",
+    "created_at": "2025-06-15T11:10:00Z",
+    "comments": []
+}

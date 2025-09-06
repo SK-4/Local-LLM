@@ -1,0 +1,15 @@
+{
+    "ticket_id": "ALPHA-001",
+    "title": "Streaming summarization latency high",
+    "description": "Summaries for sessions longer than 500 messages take >3s to generate, causing UI lag.",
+    "status": "In Progress",
+    "priority": "High",
+    "assigned_to": "sara.k",
+    "created_at": "2025-06-25T10:12:00Z",
+    "comments": [
+        {
+            "author": "devops",
+            "text": "Investigating model batching settings."
+        }
+    ]
+}

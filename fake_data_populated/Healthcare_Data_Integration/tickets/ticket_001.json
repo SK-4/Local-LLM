@@ -1,0 +1,15 @@
+{
+    "ticket_id": "EPS-330",
+    "title": "PII not redacted in certain payloads",
+    "description": "Found patient identifiers present in archived payloads due to config drift.",
+    "status": "Critical",
+    "priority": "Critical",
+    "assigned_to": "dr.singh",
+    "created_at": "2025-06-10T05:20:00Z",
+    "comments": [
+        {
+            "author": "compliance",
+            "text": "Need immediate remediation and audit."
+        }
+    ]
+}

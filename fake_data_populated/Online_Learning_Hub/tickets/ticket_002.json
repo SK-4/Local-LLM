@@ -1,0 +1,10 @@
+{
+    "ticket_id": "DELTA-211",
+    "title": "Course authoring UX improvements",
+    "description": "Editors requested autosave and better undo support.",
+    "status": "In Progress",
+    "priority": "Low",
+    "assigned_to": "omar.q",
+    "created_at": "2025-06-22T07:00:00Z",
+    "comments": []
+}

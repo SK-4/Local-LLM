@@ -1,0 +1,10 @@
+{
+    "ticket_id": "EPS-331",
+    "title": "FHIR adapter connection timeout",
+    "description": "Adapter to hospital X timing out intermittently during peak hours.",
+    "status": "In Progress",
+    "priority": "High",
+    "assigned_to": "suman.v",
+    "created_at": "2025-06-18T14:40:00Z",
+    "comments": []
+}

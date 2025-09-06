@@ -1,0 +1,15 @@
+{
+    "ticket_id": "BETA-101",
+    "title": "Recommendation model serving errors",
+    "description": "Seldon pods returning 500 during peak traffic, causing missing recommendations on checkout page.",
+    "status": "Open",
+    "priority": "High",
+    "assigned_to": "mohit.k",
+    "created_at": "2025-07-02T13:25:00Z",
+    "comments": [
+        {
+            "author": "infra",
+            "text": "OOM on latest image suspected."
+        }
+    ]
+}

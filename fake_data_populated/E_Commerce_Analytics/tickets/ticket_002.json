@@ -1,0 +1,10 @@
+{
+    "ticket_id": "BETA-102",
+    "title": "Dashboard data freshness delay",
+    "description": "Some KPIs show 5-10 minute delay during high load.",
+    "status": "In Progress",
+    "priority": "Medium",
+    "assigned_to": "anita.r",
+    "created_at": "2025-06-30T08:00:00Z",
+    "comments": []
+}

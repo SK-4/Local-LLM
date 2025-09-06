@@ -1,0 +1,15 @@
+{
+    "ticket_id": "DELTA-210",
+    "title": "Quiz submission race condition",
+    "description": "Occasional duplicate grading when students submit twice quickly.",
+    "status": "Open",
+    "priority": "High",
+    "assigned_to": "nina.p",
+    "created_at": "2025-07-01T09:30:00Z",
+    "comments": [
+        {
+            "author": "qa",
+            "text": "Seeing this on mobile devices frequently."
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "ticket_id": "GAMMA-501",
+    "title": "Edge gateway reconnect failures",
+    "description": "Edge gateways occasionally fail to reconnect after network blips, losing telemetry for minutes.",
+    "status": "Open",
+    "priority": "High",
+    "assigned_to": "ali.m",
+    "created_at": "2025-06-20T16:45:00Z",
+    "comments": [
+        {
+            "author": "field",
+            "text": "Observed in low-signal areas."
+        }
+    ]
+}
